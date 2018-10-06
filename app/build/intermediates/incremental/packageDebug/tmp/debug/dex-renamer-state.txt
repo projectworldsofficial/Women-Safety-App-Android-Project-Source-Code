@@ -1,0 +1,4 @@
+#Sat Oct 06 15:33:28 PDT 2018
+base.0=C\:\\Users\\HP FOLIO\\Downloads\\Compressed\\android projects\\Attendance-management-system-master\\Women-Safety-App-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

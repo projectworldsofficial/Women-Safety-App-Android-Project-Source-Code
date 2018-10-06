@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:10:5-11:23
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:10:22-72
+application
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:12:5-59:19
+	android:label
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.prabhu.womensafetyapp.MainActivity
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:18:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.prabhu.womensafetyapp.Register
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:26:9-33:20
+	android:parentActivityName
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:29:13-80
+	android:label
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:27:13-62
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:30:13-32:74
+	android:value
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:32:17-71
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:31:17-63
+activity#com.prabhu.womensafetyapp.Display
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:34:9-41:20
+	android:parentActivityName
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:37:13-80
+	android:label
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:36:13-59
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:35:13-61
+service#com.prabhu.womensafetyapp.BgService
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:42:9-71
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:42:18-68
+activity#com.prabhu.womensafetyapp.Instructions
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:43:9-50:20
+	android:parentActivityName
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:46:13-80
+	android:label
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:45:13-64
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:44:13-66
+activity#com.prabhu.womensafetyapp.Verify
+ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:51:9-58:20
+	android:parentActivityName
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:54:13-80
+	android:label
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:53:13-58
+	android:name
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml:52:13-60
+uses-sdk
+INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP FOLIO\Downloads\Compressed\android projects\Attendance-management-system-master\Women-Safety-App-master\app\src\main\AndroidManifest.xml
